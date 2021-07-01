@@ -1,20 +1,3 @@
-/**********************************************************************
-Filename:				Ass3.c
-Version:				1.0
-Author:					Matt Idone-York
-Student No:				040912497
-Course Name/Number:		Numerical Computing CST8233
-Lab Sect:				302
-Assignment #:			3
-Assignment name:		Transient-Response Analysis of 1st Order Systems
-Due Date:				April 10 2020
-Submission Date:		April 10 2020
-Professor:              Hala Own
-Purpose:				Find the solution of 1st order Ordinary
-						Differential Equations (ODE) using well known
-						methods; namely, Euler’s and Runge-Kutta 4nd
-						Order Methods.
-*********************************************************************/
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
